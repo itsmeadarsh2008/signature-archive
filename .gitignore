@@ -81,6 +81,11 @@ typings/
 .env
 .env.test
 
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
